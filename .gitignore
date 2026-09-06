@@ -185,6 +185,10 @@ cython_debug/
 3_crewai/reference/engineering_team/sandbox/
 3_crewai/coursework/engineering_team/sandbox/
 
+# CrewAI generated run artifacts (outputs + agent sandboxes)
+CrewAI/**/output/
+CrewAI/**/sandbox/
+
 # Ignore memory in sidekick
 memory.db-shm
 memory.db-wal

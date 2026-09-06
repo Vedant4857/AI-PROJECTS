@@ -1,0 +1,14 @@
+# CrewAI runtime / generated artifacts
+**/.env
+**/.venv/
+**/__pycache__/
+**/.DS_Store
+**/output/
+**/sandbox/
+**/*.egg-info/
+**/.ruff_cache/
+**/.pytest_cache/
+**/.mypy_cache/
+**/memory.db
+**/memory.db-shm
+**/memory.db-wal
